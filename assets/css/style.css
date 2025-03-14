@@ -1,0 +1,27 @@
+body {
+    background-color: darkgray;
+}
+
+img {
+    width: 40%;
+}
+
+p {
+    margin: 2%;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    background-color: coral;
+    box-shadow: 0 0 20px black;
+    align-items: center;
+}
+
+h2 {
+    width: 40%;
+}
+
+.list {
+    display: flex;
+}
